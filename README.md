@@ -1,5 +1,5 @@
 # icost-mob
-Egg+React+AntMoble重构毕设记账本项目
+Egg+React+Vite+AntMoble重构毕设记账本项目
 
 
 # React + Vite
